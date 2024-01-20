@@ -36,7 +36,9 @@
 
 #### ✍️ Online Platform - 2 (Jupyter Notebook)  : **([👉Click Here](https://colab.research.google.com/) )**
 
-#### ✍️ In [*] in IPython Notebook mean and how to turn it off? : **([👉Click Here](https://stackoverflow.com/questions/30421373/what-does-in-in-ipython-notebook-mean-and-how-to-turn-it-off) )**
+#### ❌ Error -  In [*] in IPython Notebook mean and how to turn it off? : **([👉Click Here](https://stackoverflow.com/questions/30421373/what-does-in-in-ipython-notebook-mean-and-how-to-turn-it-off) )**
+
+#### ❌ Error - Input depth must be evenly divisible by filter depth: 4 vs 3: **([👉Click Here](https://stackoverflow.com/questions/60174964/invalidargumenterror-input-depth-must-be-evenly-divisible-by-filter-depth-4-v) )**
 
 
 <hr>
