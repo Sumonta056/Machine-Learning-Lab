@@ -1,5 +1,24 @@
 <div align = "center">
 
+<hr>
+
+*------ **🧠 Machine Learning Lab Final 🧠** ------*
+
+#### ✍️ CNN Model For Pneumonia Detection  :  **([👉Click Here](https://github.com/Sumonta056/Machine-Learning-Lab/tree/main/Lab-Final-Task-1-Pneumonia-CNN) )**
+
+![](./Presentations/CNN%20Model.png)
+
+#### ✍️ Logistic Regression Model For Bank Deposit Predicition  :  **([👉Click Here](https://github.com/Sumonta056/Machine-Learning-Lab/tree/main/Lab-Final-Task-2-Bank-Deposit-Logistic) )**
+
+
+![](./Presentations/Bank%20Deposit.png)
+
+<hr>
+
+</div>
+
+<div align = "center">
+
 *------ **🧠 Setup Environment for Learning Machine Learning 🧠** ------*
 
 ## 🌲 Step - 1 : Install Jupyter Notebook
@@ -24,6 +43,8 @@
 
 
 </div>
+
+
 
 
 <div align = "center">
